@@ -20,6 +20,7 @@ them involved in mental health treatment is the key to recovery.
 
 The live site can be found at [if-me.org](https://www.if-me.org/). The live design systems can be found at [design.if-me.org](http://design.if-me.org/).
 
+HELLO
 We use the wonderful [Contributor Covenant](http://contributor-covenant.org) for
 our code of conduct. Please
 [read it](https://github.com/ifmeorg/ifme/blob/master/code_of_conduct.md)
